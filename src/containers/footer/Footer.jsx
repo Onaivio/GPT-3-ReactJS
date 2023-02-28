@@ -43,7 +43,7 @@ const Footer = () => {
     </div>
 
     <div className='gpt3__footer-copyright'>
-      <p>Made By IsraelBosun with React</p>
+      <p>Made By Okomayin Onaiv with React</p>
     </div>
     </div>
   )
