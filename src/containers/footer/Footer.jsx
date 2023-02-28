@@ -38,7 +38,7 @@ const Footer = () => {
           <h4>Get in touch</h4>
           <p>Lagos State Nigeria Africa World</p>
           <p>123-456-78</p>
-          <p>israeldesigning@gmail.com</p>
+          <p>onaivio220@gmail.com</p>
         </div>
     </div>
 
